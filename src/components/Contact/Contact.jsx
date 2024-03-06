@@ -53,18 +53,18 @@ function Contact() {
           <li>
             {" "}
             <img src={mail} alt="" />
-            Contact@GreatStack.dev
+            karikaranvetti@gmail.com
           </li>
           <li>
             {" "}
             <img src={phon} alt="" />
-            +1 123-456-7890
+            +94 776449019
           </li>
           <li>
             {" "}
             <img src={add} alt="" />
-            77 Massachusetts Ave, Cambridge <br />
-            MA 02139, United States
+            Saravana Road, Kallady <br />
+            Batticaloa
           </li>
         </ul>
       </div>

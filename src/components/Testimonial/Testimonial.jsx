@@ -42,11 +42,11 @@ function Testimonial() {
                 <img src={user_1} alt="" />
                 <div>
                   <h3>William jection</h3>
-                  <span>Edusity,USA</span>
+                  <span>New success college,Batticalloa</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
+                Choosing to pursue my degree at New success college was one of the best
                 decisions Ive ever made. The supportive community,
                 state-of-the-art facilities, and commitment to academic
                 excellence have truly exceeded my expectations.
@@ -59,7 +59,7 @@ function Testimonial() {
                 <img src={user_2} alt="" />
                 <div>
                   <h3>William jection</h3>
-                  <span>Edusity,USA</span>
+                  <span>New success college,Batticalloa</span>
                 </div>
               </div>
               <p>
@@ -76,7 +76,7 @@ function Testimonial() {
                 <img src={user_3} alt="" />
                 <div>
                   <h3>William jection</h3>
-                  <span>Edusity,USA</span>
+                  <span>New success college,Batticalloa</span>
                 </div>
               </div>
               <p>
@@ -93,11 +93,11 @@ function Testimonial() {
                 <img src={user_4} alt="" />
                 <div>
                   <h3>William jection</h3>
-                  <span>Edusity,USA</span>
+                  <span>New success college,Batticalloa</span>
                 </div>
               </div>
               <p>
-                Choosing to pursue my degree at Edusity was one of the best
+              Choosing to pursue my degree at Edusity was one of the best
                 decisions Ive ever made. The supportive community,
                 state-of-the-art facilities, and commitment to academic
                 excellence have truly exceeded my expectations.
