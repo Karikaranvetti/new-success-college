@@ -1,14 +1,17 @@
-.hero{
+.hero {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../../assets/hero.png');
-    box-sizing: cover;
+    background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../../assets/dashborad.jpeg');
+    background-size: contain; /* Ensure the entire background image is visible without cropping */
     background-position: center;
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
     color: #ffff;
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden; /* Prevent content overflow if needed */
 }
+
 .hero-text{
     text-align: center;
     max-width: 800px;
